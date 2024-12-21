@@ -55,4 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspiration from social media platforms for design and functionality.
 - Thanks to the open-source community for providing resources and tools.
-```
