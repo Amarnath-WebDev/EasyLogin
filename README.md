@@ -21,12 +21,12 @@ To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/easylogin.git
+   git clone https://github.com/Amarnath-WebDev/EasyLogin.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd easylogin
+   cd EasyLogin
    ```
 
 3. **Open the `index.html` file in your browser:**
@@ -56,46 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration from social media platforms for design and functionality.
 - Thanks to the open-source community for providing resources and tools.
 ```
-
-### Instructions to Upload to GitHub
-
-1. **Create a New Repository**:
-   - Go to [GitHub](https://github.com) and log in to your account.
-   - Click on the "+" icon in the top right corner and select "New repository."
-   - Name your repository (e.g., `easylogin`), provide a description, and choose whether it will be public or private.
-
-2. **Upload Your Files**:
-   - You can either upload files directly through the GitHub interface or use Git commands:
-     - If using the command line, navigate to your project directory:
-       ```bash
-       cd path/to/easylogin
-       ```
-     - Initialize a Git repository:
-       ```bash
-       git init
-       ```
-     - Add your files:
-       ```bash
-       git add .
-       ```
-     - Commit your changes:
-       ```bash
-       git commit -m "Initial commit"
-       ```
-     - Link your local repository to GitHub:
-       ```bash
-       git remote add origin https://github.com/yourusername/easylogin.git
-       ```
-     - Push your changes:
-       ```bash
-       git push -u origin main
-       ```
-
-3. **Add the README.md**:
-   - If you haven't already added the `README.md` file, you can create it in your project directory and push it to GitHub.
-
-### Final Note
-
-Make sure to replace `yourusername` in the clone URL and the README with your actual GitHub username. Feel free to customize the content of the `README.md` file to better fit your project and add any additional sections you think might be helpful.
-
-If you need further assistance or have any questions, just let me know!
